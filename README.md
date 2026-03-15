@@ -11,5 +11,5 @@
 Java | JavaScript | React | Next.js | Firebase | MongoDB
 
 ## 📫 Connect with me
-LinkedIn: https://linkedin.com
+LinkedIn: www.linkedin.com/in/naveen-kumar-s-60b18232a
 GitHub: https://github.com/NAVEENKumar207
